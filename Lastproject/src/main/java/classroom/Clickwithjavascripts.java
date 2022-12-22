@@ -3,6 +3,8 @@ package classroom;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
+import javascriputilites.Javascriptutilities;
+
 public class Clickwithjavascripts extends Utilities {
 
 	public static void main(String[] args) throws InterruptedException {

@@ -5,8 +5,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 
-import classroom.Javascriptutilities;
 import classroom.Utilities;
+import javascriputilites.Javascriptutilities;
 
 public class Task2 extends Utilities {
 static WebDriver driver;
